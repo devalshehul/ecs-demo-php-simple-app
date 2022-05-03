@@ -17,7 +17,7 @@
             <div class="hero-unit">
                 <h1>Welcome to Octank Media and Entertainment Inc</h1>
                 <h2>We are world leaders in providing content rich experience </h2>
-                <p>Octank M&E has been the industry leader in entertaiment industry with a wide variety of content and premium streaming services.</p>
+                <p>Octank Media and Entertainment has been the industry leader in entertaiment industry with a wide variety of content and premium streaming services.</p>
                 <?php
                         $myfile = fopen("/var/www/my-vol/date", "r") or die("");
                         echo fread($myfile,filesize("/var/www/my-vol/date"));
